@@ -32,7 +32,7 @@
     <string name="label_action_in_app_search">應用程式內搜尋</string>
     <string name="label_action_flashlight">手電筒</string>
     <string name="label_action_bluetooth">藍牙</string>
-    <string name="label_action_wifi">WiFi</string>
+    <string name="label_action_wifi">Wi-Fi</string>
     <string name="label_action_hotspot">無線基地台</string>
     <string name="label_action_last_app">上一個應用程式</string>
     <string name="label_action_overview">總覽</string>
@@ -75,7 +75,7 @@
     <string name="smartbar_editor_toast_starting">正在啟動導航編輯器</string>
     <string name="smartbar_editor_toast_stopping">正在關閉導航編輯器</string>
     <string name="smartbar_editor_toast_unavailable">無法啟動導航編輯器</string>
-    <string name="edit_mode">Edit mode</string>
+    <string name="edit_mode">編輯模式</string>
     <!-- App killed message -->
     <string name="app_killed_message">已關閉 %s 個應用程式</string>
     <!-- Pulse and media arrows blacklist -->

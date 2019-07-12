@@ -21,7 +21,7 @@
     <string name="label_action_settings_panel">QS面板</string>
     <string name="label_action_notification_panel">通知面板</string>
     <string name="label_action_screenshot">屏幕截图</string>
-    <string name="label_action_region_screenshot">Partial screenshot</string>
+    <string name="label_action_region_screenshot">局部截图</string>
     <string name="label_action_screenrecord">屏幕录像</string>
     <string name="label_action_expanded_desktop">扩展桌面</string>
     <string name="label_action_screen_off">关闭屏幕</string>
@@ -32,7 +32,7 @@
     <string name="label_action_in_app_search">应用内搜索</string>
     <string name="label_action_flashlight">手电筒</string>
     <string name="label_action_bluetooth">蓝牙</string>
-    <string name="label_action_wifi">WiFi</string>
+    <string name="label_action_wifi">无线网络</string>
     <string name="label_action_hotspot">热点</string>
     <string name="label_action_last_app">上次运行应用</string>
     <string name="label_action_overview">最近任务</string>
@@ -48,16 +48,16 @@
     <string name="label_action_ime_up">输入法光标上</string>
     <string name="label_action_volume_panel">声音面板</string>
     <string name="label_action_clear_notifications">清除通知</string>
-    <string name="label_action_editing_smartbar">Smartbar 编辑器</string>
-    <string name="label_action_split_screen">Split screen</string>
-    <string name="label_action_one_handed_mode_left">One handed mode (left side)</string>
-    <string name="label_action_one_handed_mode_right">One handed mode (right side)</string>
-    <string name="label_action_media_left">Previous track</string>
-    <string name="label_action_media_right">Next track</string>
-    <string name="label_action_assistant_sound_search">Google sound search</string>
-    <string name="label_action_play_pause">Play/Pause media</string>
-    <string name="label_action_ring_vibe_silent">Ringer/Vibrate/Silent</string>
-    <string name="label_action_camera">Camera</string>
+    <string name="label_action_editing_smartbar">智能导航栏编辑器</string>
+    <string name="label_action_split_screen">分屏</string>
+    <string name="label_action_one_handed_mode_left">单手模式（左手）</string>
+    <string name="label_action_one_handed_mode_right">单手模式（右手）</string>
+    <string name="label_action_media_left">上一首</string>
+    <string name="label_action_media_right">下一首</string>
+    <string name="label_action_assistant_sound_search">Google 语音搜索</string>
+    <string name="label_action_play_pause">播放/暂停 音乐</string>
+    <string name="label_action_ring_vibe_silent">响铃/振动/静音</string>
+    <string name="label_action_camera">相机</string>
     <!-- Smartbar -->
     <string name="label_smartbar_actions">动作</string>
     <string name="label_smartbar_icon">图标</string>
@@ -69,14 +69,14 @@
     <string name="label_smartbar_double_tap">双击</string>
     <string name="label_smartbar_long_press">长按</string>
     <string name="label_smartbar_icon_pack">图标包</string>
-    <string name="label_smartbar_icon_gallery">图库</string>
+    <string name="label_smartbar_icon_gallery">相册</string>
     <string name="label_smartbar_icon_color">颜色</string>
     <string name="label_smartbar_icon_reset">重置</string>
-    <string name="smartbar_editor_toast_starting">开始编辑导航栏</string>
+    <string name="smartbar_editor_toast_starting">启用导航栏编辑器</string>
     <string name="smartbar_editor_toast_stopping">停止编辑导航栏</string>
     <string name="smartbar_editor_toast_unavailable">导航编辑器不可用</string>
     <string name="edit_mode">编辑模式</string>
     <!-- App killed message -->
-    <string name="app_killed_message">%s killed</string>
+    <string name="app_killed_message">已停止\"%s\"</string>
     <!-- Pulse and media arrows blacklist -->
 </resources>

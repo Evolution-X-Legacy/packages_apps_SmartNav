@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Bindable action labels -->
     <string name="label_action_no_action">Не задано</string>
-    <string name="label_action_settings_panel">Панель QS</string>
+    <string name="label_action_settings_panel">Панель Быстрых Настроек</string>
     <string name="label_action_notification_panel">Панель уведомлений</string>
     <string name="label_action_screenshot">Снимок экрана</string>
     <string name="label_action_region_screenshot">Частичный снимок экрана</string>
@@ -48,14 +48,14 @@
     <string name="label_action_ime_up">Метод ввода курсора вверх</string>
     <string name="label_action_volume_panel">Панель громкости</string>
     <string name="label_action_clear_notifications">Очистить уведомления</string>
-    <string name="label_action_editing_smartbar">Редактор Smartbar</string>
+    <string name="label_action_editing_smartbar">Редактор Умной панели</string>
     <string name="label_action_split_screen">Разделение экрана</string>
     <string name="label_action_one_handed_mode_left">Режим \"Управление одной рукой\" (слева)</string>
     <string name="label_action_one_handed_mode_right">Режим \"Управление одной рукой\" (справа)</string>
     <string name="label_action_media_left">Предыдущий трек</string>
     <string name="label_action_media_right">Следующий трек</string>
     <string name="label_action_assistant_sound_search">Аудиопоиск Google</string>
-    <string name="label_action_play_pause">Воспроизведение/Пауза</string>
+    <string name="label_action_play_pause">Играть/Пауза</string>
     <string name="label_action_ring_vibe_silent">Звук/Вибрация/Беззвучный</string>
     <string name="label_action_camera">Камера</string>
     <!-- Smartbar -->

@@ -23,7 +23,7 @@
     <string name="label_action_screenshot">Στιγμιότυπο οθόνης</string>
     <string name="label_action_region_screenshot">Στιγμιότυπο τμήματος οθόνης</string>
     <string name="label_action_screenrecord">Βιντεοσκόπηση οθόνης</string>
-    <string name="label_action_expanded_desktop">Εκτεταμένη Επιφάνεια Εργασίας</string>
+    <string name="label_action_expanded_desktop">Εκτεταμένη επιφάνεια εργασίας</string>
     <string name="label_action_screen_off">Απενεργοποίηση οθόνης</string>
     <string name="label_action_force_close_app">Αναγκαστικό κλείσιμο εφαρμογής</string>
     <string name="label_action_search_assistant">Βοηθός αναζήτησης</string>
@@ -77,6 +77,6 @@
     <string name="smartbar_editor_toast_unavailable">Ο επεξεργαστής πλοήγησης δεν είναι διαθέσιμος</string>
     <string name="edit_mode">Λειτουργία επεξεργασίας</string>
     <!-- App killed message -->
-    <string name="app_killed_message">%s τερματίστηκαν</string>
+    <string name="app_killed_message">%s τερματίστηκε</string>
     <!-- Pulse and media arrows blacklist -->
 </resources>
